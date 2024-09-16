@@ -1,19 +1,6 @@
-# 🎈 Blank app template
+# Retirar fondos de imágenes
 
-A simple Streamlit app template for you to modify!
+El mundo del diseño gráfico a menudo, requiere eliminar fondos no deseados. Aquí podrás realizar esta tarea de forma precisa, mejorando la calidad, para los casos de rápidos recortes.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-### How to run it on your own machine
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
